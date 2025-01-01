@@ -3,7 +3,7 @@
 ## GITAM School of Technology,  
 ### GITAM (Deemed to be University), Bengaluru, India  
 
-## Extended Abstract PROJ3999 (Major Project)  
+
 
 **Title:** Design and Simulation of Dielectric Modulated and Double AlGaN Barrier Charge Plasma-Based MOSHEMT for Biosensing Application  
 
