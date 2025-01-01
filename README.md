@@ -13,14 +13,14 @@
 
 ---
 
-### Mini Project (PROJ2999) Outcome (Summary in 3-6 bullet points):  
+### Mini Project (PROJ2999) Outcome 
 - Contact, Doping, Meshing  
 - Conducted extensive simulations, demonstrating significant performance improvements compared to conventional biosensors, particularly in high-frequency and high-power environments.  
 - Successfully designed and simulated a dielectric-modulated, double-AlGaN barrier plasma-based MOSHEMT for biosensing applications using TCAD simulation tools.  
 
 ---
 
-### Extended Project Abstract (up to 300 words):  
+### Extended Project Abstract   
 In recent years, developing highly sensitive and selective biosensors has become crucial for various biomedical applications. HEMT-based biosensors, particularly Metal-Oxide-Semiconductor High Electron Mobility Transistors (MOSHEMTs), are gaining attention for their high sensitivity, quick response, and compatibility with harsh conditions, outperforming silicon-based devices due to GaN's stability and wide bandgap. These biosensors have diverse applications, including biomolecule, pH, DNA, and antigen detection, and utilize chemical reactions to detect biochemical compounds.  
 
 The proposed biosensor leverages the unique properties of dielectric modulation and charge plasma to enhance sensitivity and selectivity in detecting biomolecules. The MOSHEMT structure incorporates dual channels and a dielectric modulation technique, where specific regions of the gate dielectric are etched to create cavities. These cavities are filled with target biomolecules, causing changes in the dielectric constant and, consequently, the electrical characteristics of the device.  
@@ -33,7 +33,7 @@ Overall, the proposed MOSHEMT biosensor demonstrates excellent potential for lab
 
 ---
 
-### Extended Project Objectives (up to 2-4 bullet points):  
+### Extended Project Objectives 
 - Idvd and Idvg curves and sensitivity graphs by inserting different biomolecules.  
 - Based on sensitivity validation of graphs with literature paper.  
 - Submitting a paper to the IEEE conference.  
