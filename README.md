@@ -42,7 +42,7 @@ Overall, the proposed MOSHEMT biosensor demonstrates excellent potential for lab
 
 ### Gantt Chart for Extended Project PROJ3999  
 
-| **Months** | **WEEK 1** | **WEEK 2** | **WEEK 3** | **WEEK 4** | **WEEK 5** | **WEEK 6** |
+| **Months** | **WEEK 1**(December 1st week) | **WEEK 2**(December 2nd week) | **WEEK 3** | **WEEK 4** | **WEEK 5** | **WEEK 6** |
 |------------|------------|------------|------------|------------|------------|------------|
 | **PHASE 1** (Extended abstract) | X          | X          |            |            |            |            |
 | **PHASE 2** (Adding of Physics file) | X          | X          |            |            |            |            |
@@ -65,5 +65,4 @@ Overall, the proposed MOSHEMT biosensor demonstrates excellent potential for lab
 
 ---
 
-**(Project Supervisor Name)**  
-*Sign with date*
+
