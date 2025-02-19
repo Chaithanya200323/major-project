@@ -82,11 +82,7 @@ Resources:
   - Dielectric below the gate reduces current collapse, improving device efficiency.
   - Normal-on behavior in AlGaN HEMT increases leakage current, degrading performance.
 
-## **Contribution & Team Progress**
-### **Key Contributions**
-- **Koushitha C:** PPT, Literature Paper
-- **Naga Chaitanya SV:** Literature Paper, PPT
-- **Martha Meghana:** Literature Paper, PPT
+
 
 ### **Project Phases**
 1. **Project Initiation**
