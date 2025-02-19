@@ -1,14 +1,5 @@
 # **Dielectric Modulated Double AlGaN Barrier MOSHEMT for Bio-Sensing Applications**
 
-## **Project Overview**
-This project focuses on designing and simulating a dielectric-modulated, double AlGaN barrier plasma-based MOSHEMT for biosensing applications.
-
-## **Project Team**
-- **KOUSHITHA C**  
-- **NAGA CHAITANYA SV**  
-- **MEGHANA M**  
-- **Mentor:** Dr. Girish Shankar Mishar
-
 ## **Objective and Goals**
 ### **Objective**
 - To generate **Id-Vd** and **Id-Vg** curves and sensitivity graphs by introducing various biomolecules.
