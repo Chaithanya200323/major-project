@@ -20,11 +20,6 @@
 - Power Consumption Optimization
 - Research Publication
 
-## **Gantt Chart & Milestones**
-Resources:
-- [How to Make a Gantt Chart in Excel](https://www.officetimeline.com/gantt-chart/how-to-make/excel)
-- [TeamGantt](https://www.teamgantt.com/)
-
 ## **Literature Survey (Post-Minor Project)**
 ### **Key Publications**
 #### **1. Analytical Modeling of AlGaN/GaN MOSHEMT for High-Sensitive pH Sensor**
